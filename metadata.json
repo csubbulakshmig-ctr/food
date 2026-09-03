@@ -1,0 +1,6 @@
+{
+  "name": "Brindha Cloud Kitchen",
+  "description": "Freshly Made, Delivered with Love - Authentic homemade South Indian delicacies, meals, snacks, and beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
